@@ -1,0 +1,2 @@
+# Clap Detection 
+I brought a touch of Iron Man’s world into my own with a sound sensor and Arduino, creating lights that spring to life with a simple clap. The sensor picks up the sound, instantly triggering the lights to turn on, making the whole setup feel like magic. It’s a playful and hands-free way to control lighting, bringing a bit of superhero charm to everyday life while adding an interactive spark to home automation.
